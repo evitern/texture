@@ -1,3 +1,12 @@
 sheer 
 change from local
 change from remote
+
+git init
+.git 目录
+
+仓库数据
+
+将这个目录称之为 "附属于该仓库的工作树"
+
+
